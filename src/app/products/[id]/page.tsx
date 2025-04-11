@@ -1,8 +1,8 @@
-import { ProductButton } from '@/components/shared/product-button'
 import { Container } from '@/components/ui'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import productsJSON from '../../../db/db.json'
+import { ProductButton } from '@/components/shared'
 
 export default async function Page({ params }: { params: Promise<{ id: string }> }) {
 	const { id } = await params

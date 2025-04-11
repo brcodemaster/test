@@ -1,3 +1,3 @@
 export { Container } from './container'
-export { ProductCard } from './product-card'
+export { SearchCard } from './search-card'
 export { Section } from './section'

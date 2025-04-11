@@ -1,5 +1,4 @@
-import { Header } from '@/components/shared'
-import { Sheet } from '@/components/ui/sheet'
+import { Header, Sheet } from '@/components/shared'
 import { Providers } from '@/lib/providers'
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'

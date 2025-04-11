@@ -1,7 +1,6 @@
 'use client'
 
-import { Container } from '@/components/ui'
-import { SearchCard } from '@/components/ui/search-card'
+import { Container, SearchCard } from '@/components/ui'
 import { KeyboardEvent, useState } from 'react'
 import productsJSON from '../../db/db.json'
 

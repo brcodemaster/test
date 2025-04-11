@@ -1,4 +1,4 @@
-import { Container } from '../ui'
+import { Container } from '@/components/ui'
 import { HeaderButton } from './header-button'
 import { Navigation } from './navigation'
 

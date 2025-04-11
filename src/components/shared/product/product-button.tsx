@@ -3,7 +3,7 @@
 import { useAppContext } from '@/lib/providers'
 import { Loader, ShoppingCart } from 'lucide-react'
 import { useState } from 'react'
-import productsJSON from '../../db/db.json'
+import productsJSON from '../../../db/db.json'
 
 type Props = {
 	id: number

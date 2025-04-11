@@ -1,8 +1,8 @@
 'use client'
 
-import { ProductCard } from '@/components/ui'
 import { useAppContext } from '@/lib/providers'
 import productsJSON from '../db/db.json'
+import { ProductCard } from '@/components/shared'
 
 export default function Page() {
 	const products = productsJSON.products
