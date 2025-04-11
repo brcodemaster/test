@@ -1,0 +1,66 @@
+.product {
+	&__card {
+		display: flex;
+		justify-content: start;
+		align-items: center;
+
+		padding: 2rem;
+
+		background-color: white;
+
+		border-radius: 1rem;
+
+		position: relative;
+
+		&-label {
+			position: absolute;
+			inset: 0;
+
+			opacity: 0;
+			visibility: hidden;
+
+			background-color: black;
+
+			@include flex-center();
+		}
+		transition-duration: 300ms;
+
+		&:hover &-label {
+			cursor: pointer;
+
+			background-color: black;
+
+			opacity: 50%;
+			visibility: visible;
+		}
+	}
+
+	&__img {
+		object-fit: contain;
+	}
+
+	&__info {
+		width: 100%;
+
+		text-align: center;
+
+		color: black;
+
+		&-title {
+			&-name {
+				font-size: 2rem;
+			}
+
+			&-price {
+				font-size: 1rem;
+			}
+		}
+
+		&-description {
+			padding-top: 2rem;
+			text-wrap: balance;
+
+			color: black;
+		}
+	}
+}

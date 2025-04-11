@@ -1,0 +1,50 @@
+.card {
+	&-item {
+		width: fit-content;
+
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+
+		position: relative;
+		overflow: hidden;
+
+		padding: 3rem;
+
+		border-radius: 1rem;
+
+		background-color: whitesmoke;
+
+		&__img {
+			object-fit: contain;
+		}
+
+		&__info {
+			@include flex-center();
+			flex-direction: column;
+			gap: 1rem;
+
+			color: black;
+
+			&-name {
+				padding-top: 2rem;
+				font-size: 24px;
+			}
+
+			&-price {
+				font-size: 18px;
+			}
+		}
+
+		transition-duration: 100ms;
+
+		&:hover {
+			background-color: rgb(218, 212, 212);
+		}
+
+		&:active {
+			background-color: rgb(187, 184, 184);
+		}
+	}
+}

@@ -1,7 +1,23 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
+	images: {
+		formats: ['image/webp', 'image/avif'],
+		remotePatterns: [
+			{
+				protocol: 'https',
+				hostname: 'brostore.uz',
+				port: '',
+				pathname: '/**',
+			},
+			{
+				protocol: 'https',
+				hostname: 'www.ringkestore.com',
+				port: '',
+				pathname: '/**',
+			},
+		],
+	},
+}
 
-export default nextConfig;
+export default nextConfig

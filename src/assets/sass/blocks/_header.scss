@@ -1,0 +1,55 @@
+.header {
+	width: 100%;
+
+	padding-block: 2rem;
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__logo {
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+
+	&__menu {
+		&-list {
+			@include flex-center();
+			gap: 1rem;
+
+			text-transform: capitalize;
+
+			.active {
+				font-weight: 700;
+				position: relative;
+
+				&::after {
+					content: '';
+
+					position: absolute;
+					left: 0;
+					right: 0;
+					bottom: -2px;
+
+					height: 1px;
+					width: 100%;
+
+					background-color: white;
+				}
+			}
+		}
+	}
+
+	&__button {
+		padding: 15px;
+		border-radius: 15px;
+
+		transition-duration: 300ms;
+
+		&:hover {
+			background-color: rgba(200, 200, 200, 50%);
+		}
+	}
+}

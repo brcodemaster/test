@@ -1,0 +1,4 @@
+@import 'normalize', 'media', 'extends', 'mixins', 'utils', 'globals';
+
+@import './blocks/header', './blocks/hero', './blocks/card', './blocks/product', './blocks/search',
+	'./blocks/aside';

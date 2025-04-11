@@ -1,0 +1,33 @@
+.hero {
+	width: 100%;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+
+	gap: 3rem;
+
+	&__cards {
+		width: 100%;
+
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		justify-items: center;
+
+		gap: 2rem;
+	}
+
+	&__button {
+		background-color: white;
+
+		padding-inline: 1rem;
+		padding-block: 0.5rem;
+
+		border-radius: 5px;
+
+		color: black;
+
+		font-size: 1rem;
+	}
+}

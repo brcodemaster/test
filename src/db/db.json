@@ -1,0 +1,109 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "iPhone 13",
+			"description": "The iPhone 13 offers a stunning Super Retina XDR display, powerful A15 Bionic chip, and improved camera system for vibrant photos and videos. With its sleek design, it's a perfect choice for anyone seeking top-tier performance and a premium experience.",
+			"price": 799,
+			"image": "https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3_345x_crop_center.png?v=1698323344"
+		},
+		{
+			"id": 2,
+			"name": "Samsung Galaxy S22",
+			"description": "Samsung Galaxy S22 brings advanced camera capabilities, a dynamic AMOLED display, and lightning-fast processing with its Exynos 2200 or Snapdragon 8 Gen 1 chipset. It delivers smooth performance and a modern design for tech enthusiasts.",
+			"price": 749,
+			"image": "https://brostore.uz/cdn/shop/files/4_c7415e4c-f873-4336-afb1-4411b8efe934_345x_crop_center.png?v=1706599055"
+		},
+		{
+			"id": 3,
+			"name": "Google Pixel 6",
+			"description": "Experience Google's innovative design and performance with the Pixel 6. Equipped with the Google Tensor chip, it offers impressive AI-driven features, including top-tier photo quality and enhanced security, all wrapped in a beautiful, modern design.",
+			"price": 599,
+			"image": "https://www.ringkestore.com/cdn/shop/files/PXL6P_FUS_CL_Main_2.jpg?v=1712166807&width=5000"
+		},
+		{
+			"id": 4,
+			"name": "iPhone 13",
+			"description": "The iPhone 13 combines performance and elegance with its A15 Bionic chip, vibrant OLED display, and advanced camera system, making it the ideal choice for anyone looking for a high-performance smartphone.",
+			"price": 799,
+			"image": "https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3_345x_crop_center.png?v=1698323344"
+		},
+		{
+			"id": 5,
+			"name": "Samsung Galaxy S22",
+			"description": "Samsung Galaxy S22 features a stunning 120Hz dynamic AMOLED display, Snapdragon 8 Gen 1 processor, and versatile camera capabilities, ensuring an exceptional experience in both performance and visuals.",
+			"price": 749,
+			"image": "https://brostore.uz/cdn/shop/files/4_c7415e4c-f873-4336-afb1-4411b8efe934_345x_crop_center.png?v=1706599055"
+		},
+		{
+			"id": 6,
+			"name": "Google Pixel 6",
+			"description": "The Google Pixel 6 stands out with its AI-powered Google Tensor chip and exceptional camera system. It provides advanced features like speech recognition and real-time translation, all housed in a sleek and durable body.",
+			"price": 599,
+			"image": "https://www.ringkestore.com/cdn/shop/files/PXL6P_FUS_CL_Main_2.jpg?v=1712166807&width=5000"
+		},
+		{
+			"id": 7,
+			"name": "iPhone 13",
+			"description": "The iPhone 13 combines stunning visuals with the powerful A15 Bionic chip. Its compact design and top-tier performance make it a fantastic choice for those looking for a reliable and feature-packed smartphone.",
+			"price": 799,
+			"image": "https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3_345x_crop_center.png?v=1698323344"
+		},
+		{
+			"id": 8,
+			"name": "Samsung Galaxy S22",
+			"description": "Samsung Galaxy S22 is a flagship device equipped with the latest chipset and features, including a high refresh rate screen, powerful cameras, and ultra-fast 5G connectivity. Ideal for users who demand the best performance in a sleek package.",
+			"price": 749,
+			"image": "https://brostore.uz/cdn/shop/files/4_c7415e4c-f873-4336-afb1-4411b8efe934_345x_crop_center.png?v=1706599055"
+		},
+		{
+			"id": 9,
+			"name": "Google Pixel 6",
+			"description": "With the Pixel 6, Google brings cutting-edge technology to your fingertips. It boasts a 50MP rear camera, enhanced AI capabilities, and the Google Tensor chip, making it an excellent choice for those who love innovation and photography.",
+			"price": 599,
+			"image": "https://www.ringkestore.com/cdn/shop/files/PXL6P_FUS_CL_Main_2.jpg?v=1712166807&width=5000"
+		},
+		{
+			"id": 10,
+			"name": "iPhone 13",
+			"description": "The iPhone 13 is designed for performance and style, with an impressive A15 Bionic chip, camera enhancements, and a vibrant OLED display. It offers a seamless experience for both work and play.",
+			"price": 799,
+			"image": "https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3_345x_crop_center.png?v=1698323344"
+		},
+		{
+			"id": 11,
+			"name": "Samsung Galaxy S22",
+			"description": "The Galaxy S22 excels in both speed and display quality, with a Snapdragon 8 Gen 1 processor and dynamic AMOLED screen. It delivers top-of-the-line performance and an ultra-smooth user experience.",
+			"price": 749,
+			"image": "https://brostore.uz/cdn/shop/files/4_c7415e4c-f873-4336-afb1-4411b8efe934_345x_crop_center.png?v=1706599055"
+		},
+		{
+			"id": 12,
+			"name": "Google Pixel 6",
+			"description": "The Pixel 6 combines Google's AI-driven features with impressive hardware, including a 50MP rear camera and the Google Tensor chip. It offers an intuitive user experience and is perfect for tech lovers and photographers.",
+			"price": 599,
+			"image": "https://www.ringkestore.com/cdn/shop/files/PXL6P_FUS_CL_Main_2.jpg?v=1712166807&width=5000"
+		},
+		{
+			"id": 13,
+			"name": "iPhone 13",
+			"description": "The iPhone 13 delivers superior performance with its A15 Bionic chip, outstanding camera quality, and durable design. Perfect for those who value reliability, power, and stunning visuals.",
+			"price": 799,
+			"image": "https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3_345x_crop_center.png?v=1698323344"
+		},
+		{
+			"id": 14,
+			"name": "Samsung Galaxy S22",
+			"description": "The Samsung Galaxy S22 is a premium device with powerful performance, featuring a Snapdragon 8 Gen 1 chipset and dynamic AMOLED display. Its camera system excels in low-light conditions, offering sharp, vibrant photos.",
+			"price": 749,
+			"image": "https://brostore.uz/cdn/shop/files/4_c7415e4c-f873-4336-afb1-4411b8efe934_345x_crop_center.png?v=1706599055"
+		},
+		{
+			"id": 15,
+			"name": "Google Pixel 6",
+			"description": "The Google Pixel 6 is a powerhouse of AI and photography with its Google Tensor chip and 50MP camera. It offers unique features like Magic Eraser for photo editing and outstanding security features.",
+			"price": 599,
+			"image": "https://www.ringkestore.com/cdn/shop/files/PXL6P_FUS_CL_Main_2.jpg?v=1712166807&width=5000"
+		}
+	]
+}
