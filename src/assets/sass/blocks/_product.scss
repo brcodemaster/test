@@ -4,6 +4,12 @@
 		justify-content: start;
 		align-items: center;
 
+		@include tablet {
+			flex-direction: column;
+
+			gap: 20px;
+		}
+
 		padding: 2rem;
 
 		background-color: white;

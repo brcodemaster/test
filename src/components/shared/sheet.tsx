@@ -39,7 +39,7 @@ export const Sheet: React.FC = () => {
 			<div
 				className='sheet'
 				style={{
-					right: isOpen ? '0' : '-100%',
+					right: isOpen ? '0' : '-150%',
 				}}
 			>
 				<div className='sheet__inner'>

@@ -16,6 +16,13 @@
 		justify-items: center;
 
 		gap: 2rem;
+
+		@include tablet {
+			grid-template-columns: repeat(2, 1fr);
+		}
+		@include mobile {
+			grid-template-columns: repeat(1, 1fr);
+		}
 	}
 
 	&__button {
