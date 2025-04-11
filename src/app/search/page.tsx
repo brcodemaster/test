@@ -19,7 +19,7 @@ export default function Page() {
 
 		const product = productsJSON.products
 
-		const result = product.filter(productCard => productCard.name.includes(query))
+		const result = product.filter(productCard => productCard.name.includes(query.toLowerCase()))
 		setProducts(result)
 	}
 
